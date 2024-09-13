@@ -1,0 +1,61 @@
+const data = [
+	{
+		id: 1,
+		ques: "What is the color of sky?",
+		optiona: "Green",
+		optionb: "Blue",
+		optionc: "Yellow",
+        optiond: "Red",
+        correctoption: "Blue",
+	},
+	{
+		id: 2,
+		ques: "What is the color of mango?",
+		optiona: "Green",
+		optionb: "Blue",
+		optionc: "Yellow",
+        optiond: "Red",
+        correctoption: "Yellow",
+	},
+	{
+		id: 3,
+		ques: "What is the color of apple?",
+		optiona: "Green",
+		optionb: "Blue",
+		optionc: "Yellow",
+        optiond: "Red",
+        correctoption: "Red",
+	},
+	{
+		id: 4,
+		ques: "What is the color of parrot?",
+		optiona: "Green",
+		optionb: "Blue",
+		optionc: "Yellow",
+        optiond: "Red",
+        correctoption: "Green",
+	},
+	// {
+	// 	id: 5,
+	// 	name: "Darjeeling",
+	// 	info: "Starting in the colorful port city of Gdańsk, you'll escape the crowds and embrace the understated elegance of ready-for-prime-time Poland for 10 days. With an expert Rick Steves guide at your side, you'll experience mighty Malbork castle, the cobbly-cute village of Toruń, Poland's contemporary capital of Warsaw, the spiritual Jasna Góra Monastery, and charming Kraków — Poland's finest city. In this land of surprises — so trendy and hip, yet steeped in history — there's so much to discover. Join us for the Best of Poland in 10 Days!",
+	// 	image: "https://cdn.thecodehelp.in/Darjeeling.jpeg",
+	// 	price: "78,595",
+	// },
+	// {
+	// 	id: 6,
+	// 	name: "Jaisalmer",
+	// 	info: "Jaisalmer is a city in the Indian state of Rajasthan, known for its stunning sandstone architecture and its location in the heart of the Thar Desert. The city is home to several impressive palaces and fortresses, as well as unique cultural traditions and handicrafts.",
+	// 	image: "https://cdn.thecodehelp.in/Jaisalmer.jpeg",
+	// 	price: "68,595",
+	// },
+	// {
+	// 	id: 7,
+	// 	name: "Kochi",
+	// 	info: "Kochi is a port city in the Indian state of Kerala, known for its historic connections to trade and commerce. The city is home to several stunning churches, synagogues, and mosques, as well as a rich culinary tradition that blends Indian, Portuguese, and other influences.",
+	// 	image: "https://cdn.thecodehelp.in/Kochi.jpeg",
+	// 	price: "68,595",
+	// },
+];
+
+export default data;
